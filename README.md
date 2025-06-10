@@ -1,12 +1,61 @@
-# React + Vite
+# Web Development Project 1 - _NepaliBites_
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Submitted by: **Siddhartha Mishra**
 
-Currently, two official plugins are available:
+This web app: **A Nepali dish recipe hub featuring 10 classic Nepali dishes.**
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Time spent: **3** hours spent in total
 
-## Expanding the ESLint configuration
+## Required Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+The following **required** functionality is completed:
+
+- [x] **The app has a cohesive, unique theme for events or resources relevant to a specific community**
+  - [x] Header/title describing the theme is displayed
+- [x] **At least 10 unique events or resources are displayed in a responsive card format**
+  - [x] There are at least 10 cards displayed
+  - [x] The cards should be displayed in an organized format (ex. a grid, or in one line)
+  - [x] Each card should include some information about the event or resource
+
+The following **optional** features are implemented:
+
+- [x] Buttons or links to a related resources are on each card component
+  - [x] All cards have buttons or links in addition to text
+- [x] The site is responsive for both desktop and mobile formats
+  - [x] Web app is shown in a mobile format
+
+The following **additional** features are implemented:
+
+- [x] List anything else that you added to improve the site's functionality!
+  - Clean header part
+  - Search functionality where users can search for recipes of dishes of their choice
+  - Filter search results with different categories like veg/non-veg, difficulty level, or prep time
+  - Carousel feature to showcase similar dishes and keep users engaged
+
+## Video Walkthrough
+
+Here's a walkthrough of implemented required features:
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/Mw7Tk0k"  ><a href="//imgur.com/a/Mw7Tk0k">proj1</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+
+GIF created with gifcap
+
+## Notes
+
+- Understanding how Flexbox works and making the layout fully responsive across different screen sizes
+- Getting familiar with React’s component-based structure and how to manage reusable UI elements effectively
+
+## License
+
+    Copyright [2025] [Siddhartha Mishra]
+
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+
+        http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.

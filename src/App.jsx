@@ -8,6 +8,11 @@ function App() {
 
   return (
     <>
+    <head>
+    <link rel="icon" href='src/assets/favicon.png' />
+    <title>Nepali Bites</title>
+</head> 
+    
     <Header/>
 
       <div className='mainDiv'>
