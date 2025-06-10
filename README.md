@@ -35,7 +35,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented required features:
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/Mw7Tk0k"  ><a href="//imgur.com/a/Mw7Tk0k">proj1</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<img src='https://i.imgur.com/I3sKqlx.gif' title='Nepali Bites GIF Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with gifcap
 
