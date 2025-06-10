@@ -35,7 +35,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented required features:
-<img src='https://i.imgur.com/I3sKqlx.gif' title='Nepali Bites GIF Walkthrough' width='' alt='Video Walkthrough' />
+<img src='./src/assets/proj1.gif' title='Nepali Bites GIF Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with gifcap
 
